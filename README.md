@@ -2,7 +2,7 @@
 
 ![Status-Em%20Desenvolvimento-yellow](https://github.com/user-attachments/assets/5c7c7cbb-ce0b-479c-b9be-15e2423051c1)
 
-# 📋 Descrição
+## 📋 Descrição
 Sistema de blog desenvolvido em PHP com funcionalidades básicas de CRUD (Create, Read, Update, Delete) para posts. O projeto inclui:
 
 Listagem de posts com paginação
@@ -13,7 +13,7 @@ Visualização individual de posts
 
 Organização por categorias
 
-# 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 PHP 7.4+
 
 MySQL/MariaDB
@@ -22,7 +22,7 @@ Bootstrap 5 (para estilização)
 
 PDO (PHP Data Objects para acesso ao banco de dados)
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 ```
 blog-php/  
 ├── includes/  
