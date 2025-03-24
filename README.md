@@ -23,7 +23,7 @@ Bootstrap 5 (para estilização)
 PDO (PHP Data Objects para acesso ao banco de dados)
 
 # 📂 Estrutura do Projeto
-
+```
 blog-php/  
 ├── includes/  
 │   ├── header.php  
@@ -35,7 +35,7 @@ blog-php/
 └── admin/
 │   ├── login.php  
 │   └── logout.php  
-
+```
 ## ✨ Funcionalidades Principais
 Listagem de Posts: Exibe todos os posts ordenados por data de criação
 
@@ -50,10 +50,10 @@ Design Responsivo: Layout adaptável a diferentes dispositivos
 ##🚀 Como Instalar
 Clone este repositório:
 
-´´´bash
-  git clone [[url-do-repositorio] ](https://github.com/Lancellot/Projeto-Blog)
-  Configure o banco de dados:
-´´´
+ ```bash
+ git clone [[url-do-repositorio] ](https://github.com/Lancellot/Projeto-Blog)
+ Configure o banco de dados:
+```
 Importe o arquivo SQL (se fornecido)
 
 Configure as credenciais no arquivo de conexão
@@ -62,9 +62,9 @@ Configure o servidor web (Apache/Nginx) para apontar para a pasta do projeto
 
 Acesse via navegador:
 
-´´´
+```
 http://localhost/blog-php
-´´´
+```
 
 
 ## ⚙️ Configuração
