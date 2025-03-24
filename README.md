@@ -1,6 +1,6 @@
 ## Projeto Blog PHP
 
-![Status-%20 Desenvolvimento-yellow](https://github.com/user-attachments/assets/5c7c7cbb-ce0b-479c-b9be-15e2423051c1)
+![Status-%20Desenvolvimento-yellow](https://github.com/user-attachments/assets/5c7c7cbb-ce0b-479c-b9be-15e2423051c1)
 
 ## 📋 Descrição
 Sistema de blog desenvolvido em PHP com funcionalidades básicas de CRUD (Create, Read, Update, Delete) para posts. O projeto inclui:
