@@ -47,7 +47,7 @@ Categorias: Organização dos posts por categorias
 
 Design Responsivo: Layout adaptável a diferentes dispositivos
 
-##🚀 Como Instalar
+## 🚀 Como Instalar
 Clone este repositório:
 
  ```bash
