@@ -1,6 +1,6 @@
-![Status-Em%20Desenvolvimento-yellow](https://github.com/user-attachments/assets/5c7c7cbb-ce0b-479c-b9be-15e2423051c1)## Projeto Blog PHP
+## Projeto Blog PHP
 
-![Upload<svg xmlns="http://www.w3.org/2000/svg" width="194" height="20" role="img" aria-label="Status: Em%20Desenvolvimento"><title>Status: Em%20Desenvolvimento</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="194" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="45" height="20" fill="#555"/><rect x="45" width="149" height="20" fill="#dfb317"/><rect width="194" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="235" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="350">Status</text><text x="235" y="140" transform="scale(.1)" fill="#fff" textLength="350">Status</text><text aria-hidden="true" x="1185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1390">Em%20Desenvolvimento</text><text x="1185" y="140" transform="scale(.1)" fill="#fff" textLength="1390">Em%20Desenvolvimento</text></g></svg>ing Status-Em%20Desenvolvimento-yellow.svg…]()
+![Status-Em%20Desenvolvimento-yellow](https://github.com/user-attachments/assets/5c7c7cbb-ce0b-479c-b9be-15e2423051c1)
 
 # 📋 Descrição
 Sistema de blog desenvolvido em PHP com funcionalidades básicas de CRUD (Create, Read, Update, Delete) para posts. O projeto inclui:
